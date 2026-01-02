@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { HeartCanvas } from './HeartCanvas';
+import { HeartCanvas } from './HeartCanvas.tsx';
 
 const App: React.FC = () => {
   return (
