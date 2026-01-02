@@ -15,7 +15,7 @@ const App: React.FC = () => {
 
       {/* Footer Info */}
       <div className="absolute bottom-10 text-center pointer-events-none">
-        <p className="text-zinc-500 text-xs tracking-[0.3em] uppercase">Faqat sen mening qalbimda qolasan!</p>
+        <p className="text-zinc-500 text-xs tracking-[0.3em] uppercase">Faqat sen mening qalbimdasan!</p>
       </div>
 
       {/* Interaction Hint */}
