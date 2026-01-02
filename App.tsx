@@ -7,7 +7,7 @@ const App: React.FC = () => {
     <div className="relative w-full h-screen bg-black flex flex-col items-center justify-center overflow-hidden">
       {/* Background decoration */}
       <div className="absolute top-10 left-10 opacity-20 pointer-events-none">
-        <h1 className="text-red-500 text-2xl font-thin tracking-widest uppercase">Ethereal Core</h1>
+        <h1 className="text-red-500 text-2xl font-thin tracking-widest uppercase">QALBIM SAHIFASI</h1>
       </div>
       
       {/* Main Animation Component */}
