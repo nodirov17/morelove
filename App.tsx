@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { HeartCanvas } from './components/HeartCanvas';
+import { HeartCanvas } from './HeartCanvas';
 
 const App: React.FC = () => {
   return (
