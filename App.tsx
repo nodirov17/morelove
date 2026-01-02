@@ -15,12 +15,12 @@ const App: React.FC = () => {
 
       {/* Footer Info */}
       <div className="absolute bottom-10 text-center pointer-events-none">
-        <p className="text-zinc-500 text-xs tracking-[0.3em] uppercase">Procedural Pulse &bull; Math &bull; Motion</p>
+        <p className="text-zinc-500 text-xs tracking-[0.3em] uppercase">Faqat sen mening qalbimda qolasan!</p>
       </div>
 
       {/* Interaction Hint */}
       <div className="absolute bottom-20 opacity-40 animate-pulse text-zinc-400 text-[10px] uppercase tracking-tighter">
-        Click anywhere to burst
+        FAQAT SEN...)
       </div>
     </div>
   );
