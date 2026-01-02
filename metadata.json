@@ -1,0 +1,5 @@
+{
+  "name": "Ethereal Heart Canvas",
+  "description": "A high-performance React application featuring a procedurally generated, glowing heart animation using HTML5 Canvas and mathematical parametric equations.",
+  "requestFramePermissions": []
+}
